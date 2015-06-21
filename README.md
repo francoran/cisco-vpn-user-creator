@@ -4,6 +4,7 @@
 
 This project is an easy-to-use script for creating a vpn users in Cisco devics.
 It depends, of course, on working Cisco vpn.
+**The script will auto-generate 10 chars password for the user.**
 
 ## Installation
 
