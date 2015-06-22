@@ -1,7 +1,5 @@
 # cisco-vpn-user-creator
 
-## Synopsis
-
 This project is an easy-to-use script for creating a vpn users in Cisco devics.
 It depends, of course, on working Cisco vpn.
 **The script will auto-generate 10 chars password for the user.**
@@ -27,3 +25,6 @@ Run the following command and replcae first-name_last-name with the needed vpn u
 ```bash
 python vpn-users-creator.py --vpn_user first-name_last-name
 ```
+
+##Author
+* Ran Franco - http://www.ranfranco.com
